@@ -111,7 +111,7 @@ function App() {
 
 
 
-          // inicializateOptions(i)
+      
           itemsQuestions.push(
           <table>
             <tr>
